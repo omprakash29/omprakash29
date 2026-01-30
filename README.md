@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @omprakash29
-- 🌱 I’m currently learning Full Stack Development and DSA
+- 👋 Hi, I’m Om Prakash Padhy
+- 🌱 I’m currently working as a software automation tester
 - 📫 How to reach me omprakashaf3003@gmail.com
 <!---
 omprakash29/omprakash29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
